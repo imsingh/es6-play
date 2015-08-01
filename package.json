@@ -1,0 +1,9 @@
+{
+  "name": "es6-play",
+  "version": "1.0.0",
+  "dependencies" : {
+  	"gulp": "^3.9.0",
+    "gulp-babel": "^5.1.0",
+    "gulp-connect": "^2.2.0"
+  }
+}
